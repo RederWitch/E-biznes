@@ -1,0 +1,31 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/CartItemRepository.scala:12:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/CartRepository.scala:13:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/CategoryRepository.scala:12:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/DiscountRepository.scala:13:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/OrderRepository.scala:13:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/ProductRepository.scala:12:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/ProductReviewRepository.scala:13:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/UserAddressRepository.scala:12:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/UserPaymentRepository.scala:13:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/wiki/Pulpit/e-biznes/shop-scala/E-biznes/e-biz-zad-3/app/repositories/UserRepository.scala:13:39: type JdbcProfile in package driver is deprecated (since 3.2): Use type `slick.jdbc.JdbcProfile` instead of `slick.driver.JdbcProfile`[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val dbConfig = dbConfigProvider.get[JdbcProfile][0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m10 warnings found[0m
